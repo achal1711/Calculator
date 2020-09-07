@@ -50,7 +50,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#512DA8"
             android:text="C"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -61,7 +61,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#512DA8"
             android:text="="
             android:textColor="#ecf0f1"
             android:textSize="30sp" />
@@ -80,7 +80,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="1"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -91,7 +91,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="2"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -102,7 +102,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="3"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -113,7 +113,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad2"
+            android:background="#512DA8"
             android:text="/"
             android:textColor="#ecf0f1"
             android:textSize="30sp" />
@@ -132,7 +132,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="4"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -143,7 +143,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="5"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -154,7 +154,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="6"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -165,7 +165,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad2"
+            android:background="#512DA8"
             android:text="-"
             android:textColor="#ecf0f1"
             android:textSize="30sp" />
@@ -184,7 +184,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="7"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -195,7 +195,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="8"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -206,7 +206,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="9"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -217,7 +217,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad2"
+            android:background="#512DA8"
             android:text="x"
             android:textColor="#ecf0f1"
             android:textSize="30sp" />
@@ -236,7 +236,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#512DA8"
             android:text="."
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -247,7 +247,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad"
+            android:background="#673AB7"
             android:text="0"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
@@ -258,7 +258,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad2"
+            android:background="#512DA8"
             android:text="%"
             android:textColor="#ecf0f1"
             android:textSize="30sp" />
@@ -269,7 +269,7 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:background="@drawable/hovergrad2"
+            android:background="#512DA8"
             android:text="+"
             android:textColor="#ecf0f1"
             android:textSize="30sp" />
